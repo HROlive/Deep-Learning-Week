@@ -11,7 +11,7 @@ This 5 day online course was co-organised by LRZ and NVIDIA Deep Learning Instit
 
 The certificates for the workshop can be found bellow:
 
-- [Deep Learning Week - Leibniz Supercomputing Centre - Issued July 2022](https://github.com/HROlive/Deep-Learning-Week-Course/blob/main/images/Certificate.pdf)
-- [Fundamentals of Deep Learning - NVIDIA Deep Learning Institute - Issued July 2022](https://courses.nvidia.com/certificates/4693c35f1c7a41baa9be0e520a4f34bd/)
-- [Fundamentals of Deep Learning for Multi-GPUs - NVIDIA Deep Learning Institute - Issued July 2022](https://courses.nvidia.com/certificates/8b9f35a826eb4d4c93108eb14bdbbf89/)
-- [Building Transformer-Based Natural Language Processing Applications - NVIDIA Deep Learning Institute - Issued August 2022](https://courses.nvidia.com/certificates/cab3568a849e4be0927a6ec6c51674a3/)
+- ["Deep Learning Week" - Leibniz Supercomputing Centre (Issued On: July 2022)](https://github.com/HROlive/Deep-Learning-Week-Course/blob/main/images/Certificate.pdf)
+- ["Fundamentals of Deep Learning" - NVIDIA Deep Learning Institute (Issued On: July 2022)](https://courses.nvidia.com/certificates/4693c35f1c7a41baa9be0e520a4f34bd/)
+- ["Fundamentals of Deep Learning for Multi-GPUs" - NVIDIA Deep Learning Institute (Issued On: July 2022)](https://courses.nvidia.com/certificates/8b9f35a826eb4d4c93108eb14bdbbf89/)
+- ["Building Transformer-Based Natural Language Processing Applications" - NVIDIA Deep Learning Institute (Issued On: August 2022)](https://courses.nvidia.com/certificates/cab3568a849e4be0927a6ec6c51674a3/)
