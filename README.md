@@ -1,4 +1,4 @@
-# Deep-Learning-Week-Course
+# Deep-Learning-Week
 
 ![Course](images/banner.jpg)
 
