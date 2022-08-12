@@ -21,7 +21,7 @@ The overall goals of this intensive course week, packed with lectures about Deep
 > - learn how to effectively parallelize training of deep neural networks on single and Multi-GPUs;
 > - understand how to leverage the LRZ AI Systems to perform all the above tasks.
 
-This workshop was co-organised by LRZ and NVIDIA Deep Learning Institute (DLI). Material developed by NVIDIA was supplemented by vendor-neutral material developed by LRZ. All instructors were NVIDIA certified University Ambassadors.
+This course was co-organised by LRZ and NVIDIA Deep Learning Institute (DLI). Material developed by NVIDIA was supplemented by vendor-neutral material developed by LRZ. All instructors were NVIDIA certified University Ambassadors.
 
 <a name="information"></a>
 ## Information
