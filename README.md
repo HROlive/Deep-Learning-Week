@@ -26,7 +26,7 @@ This course was co-organised by LRZ and NVIDIA Deep Learning Institute (DLI). Ma
 <a name="information"></a>
 ## Information
 
-All necessary information, links and lesson slides for the course can be found [on the course website](https://doku.lrz.de/display/PUBLIC/Deep+Learning+Week+@+LRZ+2022).
+All necessary information, links and lesson slides for the course can be found on the [course website](https://doku.lrz.de/display/PUBLIC/Deep+Learning+Week+@+LRZ+2022).
 
 The exercises and assessments can be found in this repository and are organized in their respective folders, one for each day of the course:
 - [Day 1 - Fundamentals of Deep Learning;](https://github.com/HROlive/Deep-Learning-Week-Course/tree/main/Day%201%20-%20Fundamentals%20of%20Deep%20Learning)
