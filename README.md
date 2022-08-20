@@ -1,5 +1,3 @@
-# Deep-Learning-Week
-
 ![Course](images/banner.jpg)
 
 ## Table of Contents
