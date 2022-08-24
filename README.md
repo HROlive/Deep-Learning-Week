@@ -44,3 +44,4 @@ The certificates for the workshop can be found bellow:
 - ["Fundamentals of Deep Learning" - NVIDIA Deep Learning Institute](https://courses.nvidia.com/certificates/4693c35f1c7a41baa9be0e520a4f34bd/) (Issued On: July 2022)
 - ["Fundamentals of Deep Learning for Multi-GPUs" - NVIDIA Deep Learning Institute](https://courses.nvidia.com/certificates/8b9f35a826eb4d4c93108eb14bdbbf89/) (Issued On: July 2022)
 - ["Building Transformer-Based Natural Language Processing Applications" - NVIDIA Deep Learning Institute](https://courses.nvidia.com/certificates/cab3568a849e4be0927a6ec6c51674a3/) (Issued On: August 2022)
+
