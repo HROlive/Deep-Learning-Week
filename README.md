@@ -38,7 +38,7 @@ A detailed description of the contents covered during this course can be found o
 <a name="certificates"></a>
 ## Certificates
 
-The certificates for the workshop can be found bellow:
+The certificates for the workshop can be found below:
 
 - ["Deep Learning Week" - Leibniz Supercomputing Centre](https://github.com/HROlive/Deep-Learning-Week-Course/blob/main/images/Certificate.pdf) (Issued On: July 2022)
 - ["Fundamentals of Deep Learning" - NVIDIA Deep Learning Institute](https://courses.nvidia.com/certificates/4693c35f1c7a41baa9be0e520a4f34bd/) (Issued On: July 2022)
