@@ -41,6 +41,6 @@ A detailed description of the contents covered during this course can be found o
 The certificates for the workshop can be found below:
 
 - ["Deep Learning Week" - Leibniz Supercomputing Centre](https://github.com/HROlive/Deep-Learning-Week-Course/blob/main/images/Certificate.pdf) (Issued On: July 2022)
-- ["Fundamentals of Deep Learning" - NVIDIA Deep Learning Institute](https://learn.learn.nvidia.com/certificates/66196fa09e114717aeb825cb30b72d63) (Issued On: July 2022)
-- ["Fundamentals of Deep Learning for Multi-GPUs" - NVIDIA Deep Learning Institute](https://learn.learn.nvidia.com/certificates/6a361b6f1c5d45b3a973d5145ad41729) (Issued On: July 2022)
-- ["Building Transformer-Based Natural Language Processing Applications" - NVIDIA Deep Learning Institute](https://learn.learn.nvidia.com/certificates/ff4b2c501b794358a6677cb3d724b083) (Issued On: August 2022)
+- ["Fundamentals of Deep Learning" - NVIDIA Deep Learning Institute](https://learn.learn.nvidia.com/certificates/66196fa09e114717aeb825cb30b72d63) (Issued On: July 2022 - date mismatch because of account change)
+- ["Fundamentals of Deep Learning for Multi-GPUs" - NVIDIA Deep Learning Institute](https://learn.learn.nvidia.com/certificates/6a361b6f1c5d45b3a973d5145ad41729) (Issued On: July 2022 - date mismatch because of account change)
+- ["Building Transformer-Based Natural Language Processing Applications" - NVIDIA Deep Learning Institute](https://learn.learn.nvidia.com/certificates/ff4b2c501b794358a6677cb3d724b083) (Issued On: August 2022 - date mismatch because of account change)
